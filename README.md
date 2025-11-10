@@ -29,19 +29,15 @@ Esta implementación busca facilitar y automatizar la vigilancia inteligente en 
 ##  Estructura del Repositorio
 
 El proyecto se organiza en las siguientes carpetas principales:
-
+```
 .
 ├── dataset_baggage_scanner/
 │   ├── train/                # Imágenes y anotaciones para entrenamiento
 │   └── test/                 # Imágenes y anotaciones para prueba y validación
 │
 ├── modelos/
-│   └── ...                   # Modelos entrenados (.pt, .h5, etc.) y/o archivos de configuración
+│   └── ...                   # Modelos entrenados 
 │
 ├── runs/
-│   └── ...                   # Resultados de entrenamientos, gráficos (matrices de confusión, curvas P-R) y logs
-│
-├── notebooks/
-│   └── eda.ipynb             # (Sugerido) Notebook con el Análisis Exploratorio de Datos
-│
-└── requirements.txt          # (Sugerido) Dependencias del proyecto
+│   └── ...                   # Resultados de entrenamientos y gráficos 
+```
