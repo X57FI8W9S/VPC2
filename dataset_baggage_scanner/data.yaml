@@ -5,7 +5,7 @@ names:
 - '3'
 - '4'
 nc: 5
-path: /content/drive/MyDrive/Colab Notebooks/dataset_baggage_scanner
+path: dataset_baggage_scanner
 roboflow:
   license: CC BY 4.0
   project: x-ray-baggage-detection

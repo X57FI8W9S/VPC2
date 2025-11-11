@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+ipykernel
+torch
+albumentations
+opencv-python
+pillow
+ultralytics
+pyyaml
+# google-colab
